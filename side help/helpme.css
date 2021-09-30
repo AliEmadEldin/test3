@@ -1,0 +1,317 @@
+
+.blh:hover{
+    color: blue;
+}
+.bth1{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.fth1{
+    padding-left: 50px; padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    position: absolute; 
+    top: 300px;
+    opacity: 0;
+    transition: all 0.45s ease-in-out;
+    
+}
+
+.bth1:hover .fth1{
+    top:0;
+    opacity: 1;
+}
+.bth2{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.fth2{
+    padding-left: 50px; padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    position: absolute; 
+    top: 300px;
+    opacity: 0;
+    transition: all 0.45s ease-in-out;
+    
+}
+
+.bth2:hover .fth2{
+    top:0;
+    opacity: 1;
+}
+
+.bth3{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.fth3{
+    padding-left: 50px; padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    position: absolute; 
+    top: 300px;
+    opacity: 0;
+    transition: all 0.45s ease-in-out;
+    
+}
+
+.bth3:hover .fth3{
+    top:0;
+    opacity: 1;
+}
+.bth4{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.fth4{
+    padding-left: 50px; padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    position: absolute; 
+    top: 300px;
+    opacity: 0;
+    transition: all 0.45s ease-in-out;
+    
+}
+
+.bth4:hover .fth4{
+    top:0;
+    opacity: 1;
+}
+.bth5{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.fth5{
+    padding-left: 50px; padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    position: absolute; 
+    top: 300px;
+    opacity: 0;
+    transition: all 0.45s ease-in-out;
+    
+}
+
+.bth5:hover .fth5{
+    top:0;
+    opacity: 1;
+}
+.bth6{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    position: relative;
+    overflow: hidden;
+}
+.fth6{
+    padding-left: 50px; padding-right: 50px;
+    padding-top: 50px;
+    text-align: center;
+    position: absolute; 
+    top: 300px;
+    opacity: 0;
+    transition: all 0.45s ease-in-out;
+    
+}
+
+.bth6:hover .fth6{
+    top:0;
+    opacity: 1;
+}
+.ihb1{
+    background-color: rgba(30, 143, 255, 0.705);
+    width: 375px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    color: white;
+    opacity: 0;
+    transition: all 0.25 ease-in-out;
+}
+
+.ihf1:hover .ihb1{
+    opacity: 1;
+}
+.ihb2{
+    background-color: rgba(30, 143, 255, 0.705);
+    width: 375px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    color: white;
+    opacity: 0;
+    transition: all 0.25 ease-in-out;
+}
+
+.ihf2:hover .ihb2{
+    opacity: 1;
+}
+.ihb3{
+    background-color: rgba(30, 143, 255, 0.705);
+    width: 375px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    color: white;
+    opacity: 0;
+    transition: all 0.25 ease-in-out;
+}
+
+.ihf3:hover .ihb3{
+    opacity: 1;
+}
+.ihb4{
+    background-color: rgba(30, 143, 255, 0.705);
+    width: 375px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    color: white;
+    opacity: 0;
+    transition: all 0.25 ease-in-out;
+}
+
+.ihf4:hover .ihb4{
+    opacity: 1;
+}
+.ihb5{
+    background-color: rgba(30, 143, 255, 0.705);
+    width: 375px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    color: white;
+    opacity: 0;
+    transition: all 0.25 ease-in-out;
+}
+
+.ihf5:hover .ihb5{
+    opacity: 1;
+}
+.ihb6{
+    background-color: rgba(30, 143, 255, 0.705);
+    width: 375px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    color: white;
+    opacity: 0;
+    transition: all 0.25 ease-in-out;
+}
+
+.ihf6:hover .ihb6{
+    opacity: 1;
+}
+.uhb1{
+    overflow: hidden;
+    position: relative;
+}
+.uhf1{
+    text-align: center;
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    transition: all 0.5s ease-in-out;
+}
+.uhb1:hover .uhf1{
+    top:100px ;
+}
+.uhb2{
+    overflow: hidden;
+    position: relative;
+}
+.uhf2{
+    text-align: center;
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    transition: all 0.5s ease-in-out;
+}
+.uhb2:hover .uhf2{
+    top:100px ;
+}
+.uhb3{
+    overflow: hidden;
+    position: relative;
+}
+.uhf3{
+    text-align: center;
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    transition: all 0.5s ease-in-out;
+}
+.uhb3:hover .uhf3{
+    top:100px ;
+}
+.uhb4{
+    overflow: hidden;
+    position: relative;
+}
+.uhf4{
+    text-align: center;
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    transition: all 0.5s ease-in-out;
+}
+.uhb4:hover .uhf4{
+    top:100px ;
+}
+.uhb5{
+    overflow: hidden;
+    position: relative;
+}
+.uhf5{
+    text-align: center;
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    transition: all 0.5s ease-in-out;
+}
+.uhb5:hover .uhf5{
+    top:100px ;
+}
+.uhb6{
+    overflow: hidden;
+    position: relative;
+}
+.uhf6{
+    text-align: center;
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    transition: all 0.5s ease-in-out;
+}
+.uhb6:hover .uhf6{
+    top:100px ;
+}
